@@ -1,7 +1,6 @@
 <div align="center">
     <img  width=180 src="https://cdn.jsdelivr.net/gh/da-keai/Awesome-Love-Code/assets/logo.png"/>
-    <h1>✨Awesome Love Code✨<br>❤️表白代码收藏馆❤️<br>❤️为超级大可爱服务！❤️</h1> 
-     <h1></h1> 
+    <h1>✨Awesome Love Code✨<br>❤️表白代码收藏馆❤️<br>❤️为超级大可爱乖乖服务！❤️</h1> 
 </div>
 
 <p align="center">
@@ -9,10 +8,7 @@
     <img src="https://img.shields.io/badge/License-MIT-green">
 </p>
 
-> 部分代码源自于互联网，侵删！
-
-# Web
-
+# 网页直览
 <table align="center">
     <!-- 第一行 -->
     <tr>
@@ -259,8 +255,10 @@
 >  032 源自此仓库：https://github.com/fromann/heart  作者：fromann
 > 
 >  034 源自此仓库：https://github.com/Kaiser-DMr/-3D  作者：Kaiser-DMr
-
-# Python
+<div align="center">
+    <h1>❤️乖乖下面的用网页就打不开了::>_<::❤️</h1> 
+</div>
+# Python，乖乖网页缺包，得自己用软件打开
 
 <table align="center">
     <!-- 第一行 -->
@@ -328,7 +326,7 @@
     </tr>
 </table>
 
-# MatLab
+# MatLab，乖乖得自己用matlab软件打开
 
 
 <table align="center">
@@ -508,6 +506,7 @@
     </td>
     </tr>
 </table>
+
 
 
 
